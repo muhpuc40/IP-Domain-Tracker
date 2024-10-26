@@ -5,7 +5,7 @@
          duplicate or remove this li tag if you want to add or remove navlink with submenu -->
           <!-- start -->
           <li class="item">
-            <a href="#" class="nav_link">
+            <a href="index.php" class="nav_link">
               <span class="navlink_icon">
                 <i class="bx bx-home-alt"></i>
               </span>
@@ -17,15 +17,15 @@
               <span class="navlink_icon">
                 <i class="bx bxs-magic-wand"></i>
               </span>
-              <span class="navlink">Ip Tools</span>
+              <span class="navlink">IP Tools</span>
               <i class="bx bx-chevron-right arrow-left"></i>
             </div>
 
             <ul class="menu_items submenu">
-              <a href="IP-tools/domain-ip.php" class="nav_link sublink">Domain/ip Track</a>
-              <a href="#" class="nav_link sublink">Nav Sub Link</a>
-              <a href="#" class="nav_link sublink">Nav Sub Link</a>
-              <a href="#" class="nav_link sublink">Nav Sub Link</a>
+              <a href="IP-tools/domain-ip.php" class="nav_link sublink">IP/Domain Track</a>
+              <a href="#" class="nav_link sublink">What is My IP ?</a>
+              <a href="#" class="nav_link sublink">IP Blacklist Check</a>
+              <a href="#" class="nav_link sublink">IP WHOIS Lookup</a>
             </ul>
           </li>
           <!-- end -->
@@ -37,15 +37,74 @@
               <span class="navlink_icon">
                 <i class="bx bx-grid-alt"></i>
               </span>
-              <span class="navlink">Overview</span>
+              <span class="navlink">DNS Tools</span>
               <i class="bx bx-chevron-right arrow-left"></i>
             </div>
 
             <ul class="menu_items submenu">
               <a href="#" class="nav_link sublink">Nav Sub Link</a>
               <a href="#" class="nav_link sublink">Nav Sub Link</a>
+
+            </ul>
+          </li>
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="bx bx-grid-alt"></i>
+              </span>
+              <span class="navlink">Network Tools</span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
               <a href="#" class="nav_link sublink">Nav Sub Link</a>
               <a href="#" class="nav_link sublink">Nav Sub Link</a>
+
+            </ul>
+          </li>
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="bx bx-grid-alt"></i>
+              </span>
+              <span class="navlink">Devlopers Tools</span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+              <a href="#" class="nav_link sublink">Nav Sub Link</a>
+              <a href="#" class="nav_link sublink">Nav Sub Link</a>
+
+            </ul>
+          </li>
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="bx bx-grid-alt"></i>
+              </span>
+              <span class="navlink">Code Translator </span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+              <a href="#" class="nav_link sublink">Nav Sub Link</a>
+              <a href="#" class="nav_link sublink">Nav Sub Link</a>
+
+            </ul>
+          </li>
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="bx bx-grid-alt"></i>
+              </span>
+              <span class="navlink">More Tools</span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+              <a href="#" class="nav_link sublink">Nav Sub Link</a>
+              <a href="#" class="nav_link sublink">Nav Sub Link</a>
+
             </ul>
           </li>
           <!-- end -->
@@ -66,55 +125,16 @@
               <span class="navlink">Filters</span>
             </a>
           </li>
-          <li class="item">
-            <a href="#" class="nav_link">
-              <span class="navlink_icon">
-                <i class="bx bx-filter"></i>
-              </span>
-              <span class="navlink">Filter</span>
-            </a>
-          </li>
-          <li class="item">
-            <a href="#" class="nav_link">
-              <span class="navlink_icon">
-                <i class="bx bx-cloud-upload"></i>
-              </span>
-              <span class="navlink">Upload new</span>
-            </a>
-          </li>
         </ul>
         <ul class="menu_items">
           <div class="menu_title menu_setting"></div>
-          <li class="item">
-            <a href="#" class="nav_link">
-              <span class="navlink_icon">
-                <i class="bx bx-flag"></i>
-              </span>
-              <span class="navlink">Notice board</span>
-            </a>
-          </li>
-          <li class="item">
-            <a href="#" class="nav_link">
-              <span class="navlink_icon">
-                <i class="bx bx-medal"></i>
-              </span>
-              <span class="navlink">Award</span>
-            </a>
-          </li>
+
           <li class="item">
             <a href="#" class="nav_link">
               <span class="navlink_icon">
                 <i class="bx bx-cog"></i>
               </span>
               <span class="navlink">Setting</span>
-            </a>
-          </li>
-          <li class="item">
-            <a href="#" class="nav_link">
-              <span class="navlink_icon">
-                <i class="bx bx-layer"></i>
-              </span>
-              <span class="navlink">Features</span>
             </a>
           </li>
         </ul>
