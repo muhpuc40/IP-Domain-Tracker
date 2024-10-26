@@ -5,16 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
     <title>Domain / IP Tracker</title>
-    <link rel="icon" href="../images/logo.png">
-    <link rel="stylesheet" href="../style.css" />
-    <link rel="stylesheet" href="domain-ip.css" />
+    <link rel="icon" href="images/logo.png">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="IP-tools/domain-ip.css" />
   </head>
   <body>
     <!-- Navbar -->
     <nav class="navbar">
       <div class="logo_item">
         <i class="bx bx-menu" id="sidebarOpen"></i>
-        <img src="../images/logo.png" alt="Logo" /> Tracker by Minhaj
+        <img src="images/logo.png" alt="Logo" /> Tracker by Minhaj
       </div>
       <div class="search_bar">
         <input type="text" placeholder="Search" />
@@ -23,12 +23,12 @@
         <i class="bi bi-grid"></i>
         <i class="bx bx-sun" id="darkLight"></i>
         <i class="bx bx-bell"></i>
-        <img src="../images/p.jpg" alt="Profile" class="profile" />
+        <img src="images/p.jpg" alt="Profile" class="profile" />
       </div>
     </nav>
 
     <!-- Sidebar -->
-    <?php include ('../layout.php'); ?>
+    <?php include 'layout.php'; ?>
 
     <!-- Main Content -->
     <div class="container">
@@ -53,8 +53,8 @@
     </div>
 
     <!-- JavaScript -->
-    <script src="../script.js"></script>
-    <script src="domain-ip.js"></script>
+    <script src="script.js"></script>
+    <script src="IP-tools/domain-ip.js"></script>
     <script>
       function showInfoCard() {
         const input = document.getElementById("ip-input").value;

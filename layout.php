@@ -22,7 +22,7 @@
             </div>
 
             <ul class="menu_items submenu">
-              <a href="IP-tools/domain-ip.php" class="nav_link sublink">IP/Domain Track</a>
+              <a href="domain-ip.php" class="nav_link sublink">IP/Domain Track</a>
               <a href="#" class="nav_link sublink">What is My IP ?</a>
               <a href="#" class="nav_link sublink">IP Blacklist Check</a>
               <a href="#" class="nav_link sublink">IP WHOIS Lookup</a>
